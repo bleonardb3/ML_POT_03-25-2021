@@ -6,7 +6,7 @@ In this lab, you will use a Jupyter Notebook to train a model using the XGBoost 
 
 In order to train and test the heart disease prediction model, you will be using an open source data set published in the University of California, Irvine (UCI) Machine Learning Repository.
 
-The notebook uses Python 3.5 runtime, XGBoost 0.6 and Scikit-Learn 0.17.
+The notebook uses Python 3.6 runtime, XGBoost 0.6 and Scikit-Learn 0.17.
 
 ## Objectives:
 
