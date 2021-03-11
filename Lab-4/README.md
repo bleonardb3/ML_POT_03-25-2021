@@ -2,7 +2,7 @@
 
 ## Introduction: 
 
-This lab will demonstrate the new and exciting AutoAI capability to build and deploy an optimized model based on the Titanic data set.
+This lab will demonstrate the award-winning AutoAI capability to build and deploy an optimized model based on the Titanic data set.
 
 ## Objectives: 
 
