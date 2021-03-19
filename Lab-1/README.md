@@ -10,8 +10,9 @@ Upon completing the lab, you will have:
 1.  Created an object storage instance and associated it with the project
 1.  Associated an existing Watson Machine Learning service instance with the project
 1.  Added a collaborator to the project
+1.  Created a deployment space. 
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/ML_POT_10-29-2020/raw/main/Lab-1/SetupEnvironmentv7.2.pdf).
+[Instructions](https://github.com/bleonardb3/ML_POT_03-25-2021/raw/main/Lab-1/SetupEnvironmentv03-25-2021.pdf).
 
