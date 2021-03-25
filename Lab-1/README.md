@@ -11,6 +11,7 @@ Upon completing the lab, you will have:
 1.  Associated an existing Watson Machine Learning service instance with the project
 1.  Added a collaborator to the project
 1.  Created a deployment space. 
+1.  Provision Watson OpenScale
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
