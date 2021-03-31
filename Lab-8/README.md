@@ -33,4 +33,4 @@ Upon completing the lab, you will learn how to:
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/ML_POT_03-25-2021/raw/main/Lab-8/ARTv4.5.pdf).
+[Instructions](https://github.com/bleonardb3/ML_POT_03-25-2021/raw/main/Lab-8/ARTv03-25-2021.pdf).
